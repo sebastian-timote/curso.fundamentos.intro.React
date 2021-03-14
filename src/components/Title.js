@@ -1,6 +1,6 @@
 //props -> son inmutables es decir siempre va a tener el mismo valor usar solo para lectura 
-import React from 'react';
-class Title extends React.Component {
+import {Component} from 'react';
+class Title extends Component {
     render(){
         return(
             <div>

@@ -1,12 +1,19 @@
+
 .header-main {
     padding: 50px;
     padding-top: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+    /* background: blue; */
+  }
 .flex-item-nameButton {
     padding: 10%;
+}
+.flex-container-card {
+  width: 80%;
+  /* background: red; */
+  padding-left: 150px;
 }
 /* .header-benefit-image {
     display:flex;
@@ -31,7 +38,7 @@
     margin-right: 1%;
     text-align: left;
     box-sizing: border-box;
-
+    padding-left: 0;
 }
 
 
